@@ -190,7 +190,7 @@ ul{
     justify-content:center;
     flex-wrap:wrap;
     align-content:center;
-    margin-left:300px;
+    margin-left:200px;
   }
   
 
@@ -210,7 +210,7 @@ ul{
   .col2{
     background-color:#3882f6;
     height:100px;
-    margin-right:300px;
+    margin-right:200px;
     flex-wrap:wrap;
     align-items:center;
     justify-content:center;
